@@ -1,1 +1,4 @@
-# weather_widget
+<a class="weatherwidget-io" href="https://forecast7.com/pt/40d64n8d70/gafanha-da-nazare/" data-label_1="HOME" data-label_2="WEATHER" data-font="Tinos" data-icons="Climacons Animated" data-theme="original" data-basecolor="#ffffff" data-textcolor="#000000" data-highcolor="#000000" data-lowcolor="#b678ff" data-suncolor="#bf94ff" data-mooncolor="#bf94ff" data-cloudcolor="#bf94ff" data-cloudfill="#d8b8ff" data-raincolor="#dfcaff" data-snowcolor="#dfcaff" >HOME WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script># weather_widget
